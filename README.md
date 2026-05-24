@@ -46,13 +46,6 @@ The model is trained to learn transaction patterns and predict whether a transac
 
 ---
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Jupyter Notebook
 
 ---
 
