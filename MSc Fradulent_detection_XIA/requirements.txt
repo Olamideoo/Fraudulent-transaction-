@@ -1,0 +1,24 @@
+# Data Processing & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning Core & Balancing
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+
+# Explainable AI Engines
+shap
+lime
+
+Streamlit
+
+# API Delivery Framework (FastAPI)
+fastapi
+uvicorn
+
+# Model Serialization
+joblib
